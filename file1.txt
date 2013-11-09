@@ -1,4 +1,7 @@
 this is a test file
 My line, you stinker!
+
+This is the new line 
+dfff
 third line!
 You know I really like Hope Dragons.
