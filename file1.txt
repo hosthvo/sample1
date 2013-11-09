@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 this is a test file
 My line, you stinker!
-=======
-the first lin
-second line
->>>>>>> 713c1ac42dd51db1096e800060776a148a271010
 third line!
 You know I really like Hope Dragons.
